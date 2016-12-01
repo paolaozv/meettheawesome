@@ -2,55 +2,55 @@
 	"students": [
 		{
 			"student": "Alexandra Neira",
-			"image": "img/perfil.jpg",
+			"image": "img/alexandra.jpeg",
 			"country": "Chile",
 			"years": "18 años"
 		},
 		{
 			"student": "Maciel Porraz",
-			"image": "img/perfil.jpg",
+			"image": "img/maciel.jpeg",
 			"country": "México",
 			"years": "18 años"
 		},
 		{
 			"student": "Paola Ortiz de Zevallos",
-			"image": "img/perfil.jpg",
+			"image": "img/paola.jpeg",
 			"country": "Perú",
 			"years": "18 años"
 		},
 		{
 			"student": "Daniela Mora",
-			"image": "img/perfil.jpg",
+			"image": "img/daniela.jpg",
 			"country": "Chile",
 			"years": "18 años"
 		},
 		{
 			"student": "Elisa Martinez",
-			"image": "img/perfil.jpg",
+			"image": "img/eli.jpg",
 			"country": "México",
 			"years": "18 años"
 		},
 		{
 			"student": "Diana Navarro",
-			"image": "img/perfil.jpg",
+			"image": "img/diana.jpg",
 			"country": "Perú",
 			"years": "18 años"
 		},
 		{
 			"student": "Susana Opazo",
-			"image": "img/perfil.jpg",
+			"image": "img/su.jpg",
 			"country": "Chile",
 			"years": "18 años"
 		},
 		{
 			"student": "Karen Orozco",
-			"image": "img/perfil.jpg",
+			"image": "img/karen.jpg",
 			"country": "México",
 			"years": "18 años"
 		},
 		{
 			"student": "Maryori Quiroz",
-			"image": "img/perfil.jpg",
+			"image": "img/maryori.jpg",
 			"country": "Perú",
 			"years": "18 años"
 		}
