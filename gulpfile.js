@@ -1,7 +1,8 @@
 const gulp = require('gulp');
 var webserver = require('gulp-webserver');
+var stylus = require('gulp-stylus');
 
-gulp.task('default', ['webserver']);
+gulp.task('default', ['webserver', 'compress']);
 
 gulp.task('webserver', function() {
   gulp.src('./dist/')
