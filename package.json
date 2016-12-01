@@ -32,6 +32,7 @@
     "gulp-webserver": "^0.9.1"
   },
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "stylus": "^0.54.5"
   }
 }
