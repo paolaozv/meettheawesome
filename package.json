@@ -1,0 +1,37 @@
+{
+  "name": "meettheawesome",
+  "version": "1.0.0",
+  "description": "App para Laboratoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McPoe/meettheawesome.git"
+  },
+  "keywords": [
+    "Laboratoria",
+    "npm",
+    "node",
+    "git",
+    "gulp",
+    "stylus",
+    "framework",
+    "materialize",
+    "jquery"
+  ],
+  "author": "Alexandra, Paola, McPoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/McPoe/meettheawesome/issues"
+  },
+  "homepage": "https://github.com/McPoe/meettheawesome#readme",
+  "devDependencies": {
+    "gulp-stylus": "^2.6.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
